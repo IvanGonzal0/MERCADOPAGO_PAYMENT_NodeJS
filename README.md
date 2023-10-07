@@ -1,1 +1,1 @@
-Mercado Pago Payment with NodeJS
+Mercado Pago Payment developed in NodeJS
